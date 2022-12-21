@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @N42hira
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 
 
 <!---
